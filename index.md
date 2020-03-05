@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Benvenuto
 
-You can use the [editor on GitHub](https://github.com/AlPaRol/Voce-e-Intelligenza-Artificiale/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Qui puoi trovare informazioni interessanti sul progetto Voce e Intelligenza Artificiale
 
 ### Markdown
 
