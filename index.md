@@ -1,4 +1,4 @@
-## Benvenuto
+## Benvenuto!
 
 Qui puoi trovare informazioni interessanti sul progetto Voce e Intelligenza Artificiale
 
